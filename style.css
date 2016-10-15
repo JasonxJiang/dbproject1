@@ -1,11 +1,24 @@
-h1 {
-	color:red;
+.ddr-logo {
+	width:560px;
+	height:315px;
+	max-height:100%;
+
+
 }
 
-div h1 {
-	color: green;
+.ddr-video {
+	max-width:100%;
+	max-height:100%;
+	min-height: 315px;
+	min-width: 560px;
 }
 
-.test {
-	color:blue;
+.ddr-machine {
+	width: 60%;
+	height: 315px;
+	max-height:83%;
+}
+
+.ddr-video{
+	height: 100%;
 }
